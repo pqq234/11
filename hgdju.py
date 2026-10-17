@@ -2,7 +2,7 @@
 """
 黄瓜短剧 hgdju.com —— TVBox / 影视仓 / OK影视 / PickTV 源
 ================================================================
-站点：https://hgdju.com （Nuxt.js SSR）
+站点：https://hgdju1.com （Nuxt.js SSR）
 内容：690 部 AI短剧/漫剧/魔改/原创/真人短剧，**全免费、无需登录**
 
 链路（全部实测通过）：
@@ -31,7 +31,7 @@ import io
 from concurrent.futures import ThreadPoolExecutor
 
 # ------------------------------------------------------------------ 常量
-HOST = "https://hgdju.com"
+HOST = "https://hgdju1.com"
 UA = ("Mozilla/5.0 (Linux; Android 12; SM-G975F) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36")
 
