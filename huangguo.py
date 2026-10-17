@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 黄果短剧 TVBox/影视仓 爬虫
-域名: https://q5a1.yhanwnftm.cc
+域名: vsbh07.ye28r31s.cc
 """
 import re
 import sys
@@ -32,7 +32,7 @@ class Spider(Spider):
 
     def init(self, extend=""):
         # 直链域名，失效时改这里
-        self.host = "https://q5a1.yhanwnftm.cc"
+        self.host = "vsbh07.ye28r31s.cc"
         self.headers = {
             "User-Agent": (
                 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
