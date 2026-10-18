@@ -4,26 +4,38 @@
       "key": "yeguo",
       "name": "野果短剧",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/pqq234/11@main/yeguo.py"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/yeguo.py"
     },
     {
       "key": "91dj",
       "name": "91短剧",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/pqq234/11@main/91dj.py"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/91dj.py"
     },
     {
       "key": "hsck",
       "name": "黄仓库",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/pqq234/11@main/hsck.py"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/hsck.py"
     }
     {
-      "key": "51dj",
-      "name": "51短剧",
+      "key": "cg",
+      "name": "橙果短剧",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/pqq234/11@main/51dj.py"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/cg.py"
     }
+    {
+      "key": "huangguo",
+      "name": "黄果短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/huangguo.py"
+    }
+    {
+      "key": "sebo",
+      "name": "色播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/sebo.py"
+    }    
   ],
   "parses": [
     {
