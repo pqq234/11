@@ -59,7 +59,17 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
-    },   
+    },
+    {
+      "key": "hgdju",
+      "name": "黄瓜短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/hgdju.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },      
     {
       "key": "hgdj",
       "name": "黄果短剧",
