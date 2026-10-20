@@ -31,10 +31,10 @@
       "changeable": 0
     },
     {
-      "key": "huangguo",
+      "key": "hgdj",
       "name": "黄果短剧",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/huangguo.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/hgdj.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -55,26 +55,6 @@
       "name": "黄色仓库",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/hsck1.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "hgdju",
-      "name": "黄瓜短剧",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/hgdju.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },      
-    {
-      "key": "hgdj",
-      "name": "黄果短剧",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/hgdj.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
