@@ -48,7 +48,7 @@ except ImportError:
 
 # ---------- 常量 ----------
 HOSTS = [
-    "https://huangguoai.com",
+    "https://qzfxb.h2na6qa39.cc/",
     "https://sz8t4.zj73w86v.cc",
     "https://km8kbj.zj73w86v.cc",
     "https://xdudw.zj73w86v.cc",
