@@ -69,6 +69,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
+    },
+    {
+      "key": "社区",
+      "name": "社区",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/社区.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "推特APP",
+      "name": "推特APP",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/推特APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
     },    
     {
       "key": "hsck",
