@@ -29,7 +29,7 @@ except ImportError:
 
 
 class Spider(SpiderBase):
-    siteUrl = "https://mdcmai4.xyz"
+    siteUrl = "https://2048ai.xyz"
     api_categories = "/api/v1/categories?type=video"
     api_videos = "/api/v1/videos"
     api_short_dramas = "/api/v1/short-dramas"
@@ -42,8 +42,8 @@ class Spider(SpiderBase):
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        "Referer": "https://mdcmai4.xyz/",
-        "Origin": "https://mdcmai4.xyz",
+        "Referer": "https://2048ai.xyz/",
+        "Origin": "https://2048ai.xyz",
         "Accept": "application/json, text/plain, */*",
     }
 
