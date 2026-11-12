@@ -11,6 +11,16 @@
       "changeable": 0
     },
     {
+      "key": "暗夜蜜桃",
+      "name": "暗夜蜜桃短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/暗夜蜜桃.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
       "key": "51短剧",
       "name": "51短剧",
       "type": 3,
