@@ -9,7 +9,67 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
-    },   
+    },
+    {
+      "key": "51短剧",
+      "name": "51短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/51短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "qishui",
+      "name": "汽水短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/qishui.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "夜社",
+      "name": "夜社短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/夜社.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "橙子短剧",
+      "name": "橙子短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/橙子短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "社区",
+      "name": "社区",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/社区.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "红果黄剧",
+      "name": "红果黄剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/红果黄剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },      
     {
       "key": "chengguo",
       "name": "橙果短剧0",
