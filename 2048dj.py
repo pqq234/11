@@ -29,7 +29,7 @@ except ImportError:
 
 
 class Spider(SpiderBase):
-    siteUrl = "https://2048ai.xyz"
+    siteUrl = "https://2048ai.vip"
     api_categories = "/api/v1/categories?type=video"
     api_videos = "/api/v1/videos"
     api_short_dramas = "/api/v1/short-dramas"
