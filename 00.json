@@ -21,6 +21,16 @@
       "changeable": 0
     },
     {
+      "key": "91",
+      "name": "91短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/1/91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
       "key": "暗夜蜜桃",
       "name": "暗夜蜜桃短剧",
       "type": 3,
@@ -134,7 +144,7 @@
       "key": "hsck1",
       "name": "黄色仓库",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/hsck1.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/1/hsck2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
