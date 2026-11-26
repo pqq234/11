@@ -9,6 +9,22 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
+      "style": {
+        "type": "rect",
+        "ratio": 1.66
+    },
+    {
+      "key": "每日大赛",
+      "name": "❤️每日大赛🔞",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/tvbw/2026/main/mrds.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.66
+      },
+      "changeable": 1
     },
     {
       "key": "91",
