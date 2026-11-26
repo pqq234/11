@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "hsck",
+      "key": "hsck2",
       "name": "橙果",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/hsck.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/1/hsck2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
