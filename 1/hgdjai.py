@@ -39,7 +39,7 @@ except Exception:
 
 class Spider(BaseSpider):
     name = "短剧·涩涩·黄果短剧"
-    host = "https://onkb.aqkmowihz.cc"
+    host = "https://btc2l.oicawahgq.cc"
 
     UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
           "AppleWebKit/537.36 (KHTML, like Gecko) "
