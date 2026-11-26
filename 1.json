@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "huangguo",
-      "name": "黄果短剧",
+      "key": "hsck",
+      "name": "黄色",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/huangguo.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/hsck.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
