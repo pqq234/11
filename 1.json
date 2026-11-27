@@ -141,6 +141,20 @@
       "changeable": 0
     },
     {
+      "key": "野果短剧",
+      "name": "野果短剧2",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/2/野果短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 0
+    },
+    {
       "key": "duanju202610",
       "name": "黄短剧",
       "type": 3,
