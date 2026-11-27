@@ -1,16 +1,16 @@
 {
   "sites": [
     {
-      "key": "hsck1",
-      "name": "橙果",
+      "key": "hsck2",
+      "name": "黄色仓库",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/hsck1.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/pqq234/11/main/1/hsck2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "style": {
         "type": "rect",
-        "ratio": 1.01
+        "ratio": 2.01
       },
       "changeable": 0
     },
